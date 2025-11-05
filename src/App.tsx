@@ -1,3 +1,5 @@
+import Text from "./components/text";
+
 export default function App() {
-  return <>Olá mundo!</>;
+  return <Text>Olá mundo.</Text>;
 }
