@@ -34,7 +34,7 @@ export const checkboxInputVariants = cva(
 );
 
 export const checkboxInputIconVariants = cva(
-  `absolute top-1.5 left-1 -translate-y-1/2 hidden peer-checked:block fill-white`,
+  `absolute top-1/2 left-1 -translate-y-1/2 hidden peer-checked:block fill-white`,
   {
     variants: {
       size: {
